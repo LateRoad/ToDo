@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "767773379970",
+    "firebase_url": "https://todo-fd5a4.firebaseio.com",
+    "project_id": "todo-fd5a4",
+    "storage_bucket": "todo-fd5a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767773379970:android:26d00352261fac24",
+        "android_client_info": {
+          "package_name": "com.lateroad.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767773379970-phurajnmvkjm0iuaab41j1qpn1u8otv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lateroad.todo",
+            "certificate_hash": "ad20b31f722da01b10c0f6db50c47c35d086524c"
+          }
+        },
+        {
+          "client_id": "767773379970-9e7tm619o6g5vlafpa9jp1ota7eda6c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKerQqKnVJ5BnCUSi-8DAW6d7xohzc9bA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767773379970-9e7tm619o6g5vlafpa9jp1ota7eda6c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
